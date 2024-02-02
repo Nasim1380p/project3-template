@@ -1,6 +1,6 @@
 # project3-template
 ![img-1](https://github.com/Nasim1380p/project3-template/assets/155636802/b5e21bf8-f05c-430f-994e-7098a867af57)
-![view2-t11](https://github.com/Nasim1380p/project2-template2/assets/155636802/e2a06ff4-1fe1-4cd3-8e0f-829b7116fca8)
+![img-2](https://github.com/Nasim1380p/project3-template/assets/155636802/a59266fd-2d2d-4f7c-b75f-931f2043bbd6)
 
 - [Demo Project](https://nasim1380p.github.io/project3-template/)
 
